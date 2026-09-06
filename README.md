@@ -4,7 +4,7 @@ Herramienta en Python para detectar cambios en archivos usando hashes SHA-256.
 
 ## Requisitos
 
-- Python 
+- Python 3
 
 ## Uso
 
@@ -20,4 +20,6 @@ python integrity_check.py update archivo_o_directorio
 - Archivos nuevos
 - Archivos eliminados
 
-## URL  https://roadmap.sh/projects/file-integrity-checker
+### URL 
+
+https://roadmap.sh/projects/file-integrity-checker
